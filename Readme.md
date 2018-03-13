@@ -1,4 +1,4 @@
-# Awesome Product
+# Awesome Product [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome websites, forums and publications where you can either promote your Product directly or increase its awareness by posting an Article
 
